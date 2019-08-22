@@ -8,9 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Corne Koks
-  photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
+- name: Clare Kennedy
+  photo: teampic/rock.jpg
+  info: Harvard Psychology
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Eliza Jane Schaeffer
+  photo: teampic/rock.jpg
+  info: Cognitive Science Major '20
+  email: eliza.J.Schaeffer.20@dartmouth.edu
   number_educ: 0
   education1:

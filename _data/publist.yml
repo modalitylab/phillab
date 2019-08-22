@@ -1,232 +1,239 @@
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+#- title: "How we know what not to think"
+#  image: howWeKnow.png
+#  description: A new theory of how value shpaes the possibilites we consider
+#  authors: Jonathan Phillips, Adam Morris, Fiery Cushman
+#  link:
+#    url: http://people.fas.harvard.edu/~phillips01
+#    display:  Preprint
+#  highlight: 1
+#  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
+
+- title: "Knowledge before belief"
+  image: manifesto.png
+  description: "Drawing on evidence from a wide range of fields in cognitive science that employ diverse methodologies, we find, across every field and method, robust evidence that knowledge is a more basic mental-state representation than belief, and that representations of knowledge do not depend on representations of belief."
+  authors: "Jonathan Phillips, <a href='http://wesleybuckwalter.org/'>Wesley Buckwlater</a>, <a href='http://cushmanlab.fas.harvard.edu'>Fiery Cushman</a>, <a href='https://sites.google.com/view/uwaterloocclab'>Ori Friedman</a>, <a href='https://www.victoria.ac.nz/psyc/about/staff/alia-martin'>Alia Martin</a>, <a href='http://john.turri.org/'>John Turri</a>, <a href='http://caplab.yale.edu/'>Laurie Santos</a>, <a href='http://campuspress.yale.edu/joshuaknobe/'>Joshua Knobe</a>"
   link:
-    url: https://arxiv.org/pdf/1810.09727.pdf
-    display:  arXiv:1810.09727
-  highlight: 0
+    url: https://github.com/phillipsjs/KominskyPhillips/blob/master/manuscript/KominskyPhillips_Revision_final.pdf
+    display: (under review)
+  highlight: 1
+  news2: 
+
+- title: "Immoral professors and malfunctioning tools: Counterfactual relevance accounts explain the effect of norm violations on causal selection"
+  image: komPhil.jpeg
+  description: "This paper sets a new standard for demonstrating that the effect of norm violations on causal selection is driven by changes in counterfactual relevance. We then outline a number important but unanswered questions about this approach to causal reasoning."
+  authors: "<a href='http://www.jfkominsky.com'>Jonathan Kominsky</a>, Jonathan Phillips"
+  link:
+    url: https://github.com/phillipsjs/KominskyPhillips/blob/master/manuscript/KominskyPhillips_Revision_final.pdf
+    display: github (under review)
+  highlight: 1
+  news2: 
+
+- title: Quantitative causal selection patterns in token causation
+  image: SAMPLE.png
+  description: "In this paper, we measure people's causal judgment across parametric manipulations of the prior probabilities of antecedent events. Our experiments replicate previous qualitative findings, and also reveal several novel patterns that are not well-described by existing theories."
+  authors: <a href="https://scholar.harvard.edu/adammorris/publications-0">Adam Morris</a>, Jonathan Phillips, <a href='http://cicl.stanford.edu/member/tobias_gerstenberg/'>Tobias Gerstenberg</a>, <a href="http://cushmanlab.fas.harvard.edu">Fiery Cushman</a>
+  link:
+    url: https://psyarxiv.com/nq53z
+    display: PLOSONE (forthcoming)
+  highlight: 1
   news2:
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "Factive theory of mind"
+  image: factiveToM.png
+  description: We offer an account on which tracking another agent’s understanding of the world and keeping that representation separate from one’s own are the essential features of a capacity for theory of mind. Using this, we demonstrate how to tell when factive representations, e.g., what others see, hear, or know, provide evidence for theory of mind.
+  authors: "Jonathan Phillips, <a href='https://philpapers.org/profile/18479'>Aaron Norby</a>"
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics
+    url: ../downloads/factiveToM.pdf
+    display: "Mind & Langauge (forthcoming)"
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
+  news1: This paper is forthcoming at <i>Mind & Language</i>! 
+  news2: "<a href='../downloads/factiveToM.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://osf.io/xdk9b/'>supplement</a>"  
 
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
+- title: "Sticky situations: <i>Force</i> and quantifier domains"
+  image: force.png
+  description: We propose a semantics for 'force' on which attention can set the quantifier domain of causal background to be taken into account, and then provide experimental evidence for our proposal.
+  authors: "Jonathan Phillips, <a href='http://users.ox.ac.uk/~sfop0776/'>Matthew Mandelkern</a>"
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/28.474
+    display:  Proceedings of Semantics and Linguistic Theory (SALT), 28 (2018)
+  highlight: 0
+  news2: "<a href='https://osf.io/crxdq/'>OSF</a>&nbsp; &nbsp;<a href='https://github.com/phillipsjs/stickySituations'>github</a>&nbsp; &nbsp;<a href='https://aspredicted.org/6qa2t.pdf'>pre-registration</a>"
+
+- title: "Estimating the Reproducibility of Experimental Philosophy"
+  image: xphiRep.jpg
+  description: Given the recent replication crisis in much of psychology and beyond, we systematically investigate the reproducibility of work in experimental philosophy.
+  authors: "<a href='https://sites.google.com/site/floriancova/'>Florian Cova</a>, <a href='http://brentstrickland.net/'>Brent Strickland</a>, ... Jonathan Phillips, et al." 
+  link:
+    url: https://osf.io/7f5hs/
+    display:  Review of Philosophy and Psychology (<i>in press</i>)
+  highlight: 0
+  news2: "<a href='https://osf.io/dvkpr/'>OSF</a>"
+
+- title: New horizons for a theory of epistemic modals
+  image: epistemicModals.jpg
+  description: NA
+  authors: "Jonathan Phillips, <a href='http://web.mit.edu/jkhoo/www/'>Justin Khoo</a>"
+  link:
+    url: https://www.tandfonline.com/eprint/qwIfzSJzXBXuXpkDqJ9F/full
+    display:  "Australasian Journal of Philosophy, (2018)"
+  highlight: 0
+  news2: "<a href='../downloads/KhooPhillips-2018.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://github.com/phillipsjs/newHorizonsForEpistemicModals'>github</a>&nbsp; &nbsp;<a href='https://osf.io/mhsfe/'>OSF</a>&nbsp; &nbsp;<a href='https://osf.io/czu2w'>preprint</a>&nbsp; &nbsp;<a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=%22New+horizons+for+a+theory+of+epistemic+modals%22+phillips'>scholar</a>&nbsp; &nbsp;<a href='../downloads/khoo2018newHorizons.bib'>.bib</a>&nbsp; &nbsp;<a href='../downloads/contextualTruth_handout.pdf'>handout</a>"
+
+
+- title: "Knowledge wh and False Beliefs: Experimental Investigations"
+  image: know-wh2.png
+  description: "We consider the phenomenon of false-belief sensitivity--a challenge to the common approach to knowledge <i>wh</i>. Across six experiments, our results provide evidence that truth judgments of knowledge <i>wh</i> ascriptions are affected by both the presence of false beliefs and the proportion of the subject's beliefs that are false."
+  authors: "Jonathan Phillips, <a href='https://sites.google.com/site/marblesandunicorns/'>B R George</a>"
+  link:
+    url: https://academic.oup.com/jos/article/35/3/467/4986223?guestAccessKey=d0ea973b-38fe-44cd-8430-d1adaeed4d23
+    display:  "Journal of Semantics (2018)"
   highlight: 1
+  news2: "<a href='https://github.com/phillipsjs/Knowledge_wh'>github</a>&nbsp; &nbsp;<a href='https://osf.io/csefx/'>OSF</a>&nbsp; &nbsp;<a href='https://osf.io/3wvnq/'>preprint</a>&nbsp; &nbsp;<a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=%22Non-reducibility+with+knowledge+wh%3A+Experimental+investigations%22&btnG='>scholar</a>&nbsp; &nbsp;<a href='downloads/phillips2018know-wh.bib'>.bib</a>&nbsp; &nbsp;<a href='downloads/Know_Wh_Handout.pdf'>handout</a>"
+
+- title: The psychological representation of modality
+  image: modality.png
+  description: "We argue that recent work on the impact of physical law, morality and probability on people's judgments provides evidence for a more general hypothesis about the kind of cognition people use to think about possibilities. We suggest that this aspect of cognition is best understood using an idea developed within work in formal semantics: modality."
+  authors: "Jonathan Phillips, <a href='http://campuspress.yale.edu/joshuaknobe/'>Joshua Knobe</a>"
+  link:
+    url: ../downloads/psychologyofModality.pdf 
+    display: "Mind & Language (2018)"
+  highlight: 1
+  news1: "For a quick and easy summary, check out this <a href='https://phillipsjs.github.io/modality/2018/03/14/the-psychological-representation-of-modality/'>blog post</a>!"
+  news2: "<a href='https://scholar.google.com/scholar?hl=en&as_sdt=0,6&q=the+psychological+representation+of+modality'>scholar</a>&nbsp;&nbsp;<a href='docs/phillips2018psychological.bib'>.bib</a>"
+
+- title: "Differentiating could from should: Developmental changes in modal cognition"
+  image: shtulman.png
+  description: We show that young children have difficulty distinguishing immoral events from impossible ones, and impossible events from immoral ones. The ability to differentiate between the possibiity and wrongness of different kinds of abnormal events is a developmental achievement.
+  authors: "<a href='https://sites.oxy.edu/shtulman/'>Andrew Shtulman</a>, Jonathan Phillips"
+  link:
+    url: ../downloads/JECP_Modality2017.pdf
+    display: Journal of Child Development (2018)
+  highlight: 1
+  news2: "<a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Differentiating+could+from+should%3A+Developmental+changes+in+modal+cognition&btnG='>scholar</a>&nbsp;&nbsp;<a href='https://osf.io/d4xs5/'>OSF</a>&nbsp; &nbsp;<a href='../downloads/spp2017_poster.pdf'>poster</a>&nbsp;&nbsp;<a href='../downloads/shtulman2018.bib'>.bib</a>"
+
+- title: "Morality constrains the default representation of what is possible"
+  image: implicit.jpg
+  description: Three studies differentiate explicit reasoning about possibilities from default implicit representations, demonstrate that human adults often default to treating immoral and irrational events as impossible, and demonstrate that high-level cognitive judgments rely on default implicit representations of possibility rather than explicit reasoning.
+  authors: "Jonathan Phillips, <a href='http://cushmanlab.fas.harvard.edu/'>Fiery Cushman</a>"
+  link:
+    url: http://www.pnas.org/content/114/18/4649.abstract
+    display: Proceedings of the National Academy of Sciences (2017)
+  highlight: 1
+  news1: "Check out some of the coverage in <a href='https://aeon.co/ideas/but-you-cant-do-that-why-immoral-actions-seem-impossible'>Aeon</a>, <a href='http://news.harvard.edu/gazette/story/2017/04/study-finds-people-equate-immorality-with-impossibility/'>Harvard Gazette</a>, <a href='https://www.byuradio.org/episode/346d3d6d-a5d8-4e14-9a73-c29ac39b8905?playhead=4140&autoplay=true'>a radio interview</a>, or <a href='https://www.thesciencebreaker.com/breaks/psychology/by-default-people-treat-immoral-actions-as-impossible'>Science Breakers</a>"
+  news2: "<a href='http://www.pnas.org/content/suppl/2017/04/17/1619717114.DCSupplemental/pnas.201619717SI.pdf#nameddest=STXT'>Supporting Information</a>&nbsp; &nbsp;<a href='../downloads/phillips2017possibility.bib'>.bib</a>&nbsp;&nbsp;<a href='https://github.com/phillipsjs/implicitModality'>github</a>&nbsp;&nbsp;<a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Morality+constrains+the+default+representation+of+what+is+possible&btnG='>scholar</a> &nbsp; &nbsp; <a href='https://imperfectcognitions.blogspot.co.uk/2017/08/morality-constrains-what-we-implicitly.html'>blog post</a>"
+
+- title: "Causation and norms of proper functioning: Counterfactuals are (still) relevant"
+  image: stillRelevant.png
+  description: We demonstrate that causal judgments of inanimate objects are highly sensitive to whether the object violated a prescriptive norm by malfunctioning and that this effect is well-explained by changes in the relevance of counterfactual alternatives.
+  authors: "Jonathan Phillips, <a href='http://www.jfkominsky.com'>Jonathan Kominsky</a>"
+  link:
+    url: https://mindmodeling.org/cogsci2017/papers/0183/index.html
+    display: Proceedings of the 39th Annual Conference of the Cognitive Science Society (2017)
+  highlight: 1
+  #news1: ""
+  news2: "<a href='https://osf.io/2x3p3/'>OSF repository</a>&nbsp; &nbsp;<a href='https://github.com/phillipsjs/stillRelevant'>github</a>&nbsp; &nbsp;<a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Causation+and+norms+of+proper+functioning%3A+Counterfactuals+are+%28still%29+relevant.&btnG='>scholar</a>&nbsp; &nbsp;<a href='../downloads/stillRelevant_poster.pdf'>poster</a>&nbsp; &nbsp;<a href='../downloads/phillips2017stillRelevant.bib'>.bib</a>"
+
+
+- title: "True happiness: The role of morality in the folk concept of happiness"
+  image: trueHappiness.jpg
+  description: "Five studies demonstrate that the orindary concept of happiness deviates from the definition used by researchers studying happiness: the ordinary concept is sensitive to the perceived <i>moral</i> value of the life lived."
+  authors: "Jonathan Phillips, <a href='https://www.cov.com/en/professionals/m/christian-mott'>Christian Mott</a>, <a href='http://www.juliandefreitas.com/'>Julian De Freitas</a>, <a href='https://www.colorado.edu/clinicalpsychology/june-gruber-phd'>June Gruber</a>, <a href='http://campuspress.yale.edu/joshuaknobe/'>Joshua Knobe</a>"
+  link:
+    url: http://psycnet.apa.org/journals/xge/146/2/165/
+    display: "Journal of Experimental Psychology: General (2017)"
+  highlight: 1
+  news1: "See the discussion of this work at <a href='https://www.psychologytoday.com/blog/experiments-in-philosophy/201702/what-does-it-take-be-truly-happy'>Psychology Today</a> or <a href='http://peasoup.us/2018/03/jonathan-phillips-and-joshua-knobe-the-ordinary-concept-of-happiness/'>PEA Soup</a>"
+  news2: "<a href='../downloads/Phillipsetal_truehappinessFinal.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://github.com/phillipsjs/trueHappiness'>github</a> &nbsp; &nbsp; <a href='../downloads/happinessPoster.pdf'>poster</a>&nbsp; &nbsp;<a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=True+happiness%3A+The+role+of+morality+in+the+folk+concept+of+happiness.&btnG='>scholar</a>&nbsp; &nbsp;<a href='../downloads/phillips2017trueHappiness.bib'>.bib</a>"
+
+- title: "Unifying morality's influence on non-moral judgments: The relevance of alternative possibilities"
+  image: RoA.png
+  description: Past work has demonstrated that people’s moral judgments can influence their judgments about freedom, causation, the doing/allowing distinction, and intentional action. Nine studies show that the effect of morality in these four domains can be explained in a unified manner by changes in the relevance of alternative possibilities.
+  authors: Jonathan Phillips, <a href='https://scholar.google.com/citations?user=oia0_vsAAAAJ&hl=en'>Jamie Luguri</a>, <a href='http://campuspress.yale.edu/joshuaknobe/'>Joshua Knobe</a> 
+  link: 
+    url: https://www.sciencedirect.com/science/article/pii/S0010027715300457
+    display: Cognition (2015)
+  highlight: 1
+  news1: "Here's a summary <a href='http://philosophycommons.typepad.com/xphi/2015/09/unifying-moralitys-effect-on-non-moral-cognition.html'>blog post</a>"
+  news2: "<a href='../downloads/Phillipsetal_truehappinessFinal.pdf'>preprint</a>&nbsp; &nbsp;<a href='https://github.com/phillipsjs/RoA'>github</a> &nbsp; &nbsp;<a href='../downloads/RoA_Poster.pdf'>poster</a>&nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Unifying+morality%E2%80%99s+influence+on+non-moral+judgments%3A+The+relevance+of+alternative+possibilities&btnG='>scholar</a> &nbsp; &nbsp; <a href='../downloads/phillips2015unifying.bib'>.bib</a>"
+
+- title: "A second look at automatic theory of mind: Reconsidering Kovács, Téglás, and Endress (2010)"
+  image: KTE.png
+  description: Recent research by Kovács, Téglás, & Endress (2010) argued that human adults automatically represent other agents’ beliefs even when those beliefs were completely irrelevant to the task being performed. In a series of eight studies, we replicate the previous findings but demonstrate that the effects found in this work arose from artifacts in the experimental paradigm.
+  authors: "Jonathan Phillips, <a href='http://web.stanford.edu/~dco/'>Desmond Ong</a>, <a href='https://uclouvain.academia.edu/AndrewSurtees'>Andrew Surtees</a>, <a href='https://www.linkedin.com/in/jeanxin'>Jean Xin</a>, <a href='#'>Samantha Williams</a>, <a href='http://saxelab.mit.edu/'>Rebecca Saxe</a>, <a href='http://langcog.stanford.edu/'>Michael Frank</a>"
+  link:
+    url: http://pss.sagepub.com/content/26/9/1353
+    display: Psychological Science (2015)
+  highlight: 1
+  news1: "Here's a <a href='http://babieslearninglanguage.blogspot.com/2014/11/is-mind-reading-automatic-replication.html'>blog post</a> about this work, and here's an important <a href='http://babieslearninglanguage.blogspot.com/2015/05/an-update-on-automatic-belief-encoding.html'>update</a> (both by Michael Frank)"
+  news2: "<a href='../downloads/POSXWSF-psychsci-inpress.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://github.com/langcog/KTE'>github</a> &nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=A+second+look+at+automatic+theory+of+mind%3A+Reconsidering+Kov%C3%A1cs%2C+T%C3%A9gl%C3%A1s%2C+and+Endress+(2010)&btnG='>scholar</a> &nbsp; &nbsp; <a href='http://rawgit.com/langcog/KTE/master/KTE_Study1a/index.html'>demo</a> &nbsp; &nbsp; <a href='../downloads/phillips2015second.bib'>.bib</a> &nbsp; &nbsp;<a href='../downloads/KTE_markdown.html'>markdown version </a>"
+
+- title: Causal superseding
+  image: causalSuperseding.png
+  description: When agents violate norms, they are typically judged to be more of a cause of resulting outcomes. In this paper, we suggest that norm violations also affect the causality attributed to other agents, a phenomenon we refer to as 'causal superseding'.
+  authors: "<a href='http://www.jfkominsky.com'>Jonathan Kominsky</a>, Jonathan Phillips, <a href='http://cicl.stanford.edu/member/tobias_gerstenberg/'>Tobias Gerstenberg</a>, <a href='http://www.ucl.ac.uk/lagnado-lab/david_lagnado.html'>David Lagnado</a>, <a href='http://campuspress.yale.edu/joshuaknobe/'>Joshua Knobe</a>"
+  link: 
+    url: http://www.sciencedirect.com/science/article/pii/S0010027715000220
+    display: Cognition (2015)
+  highlight: 1
+  news2: "<a href='../downloads/causalSuperseding.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=%22Causal+superseding%22+kominsky+phillips&btnG='>scholar</a> &nbsp; &nbsp; <a href='../downloads/KominskyCogSci.pdf'>CogSci proceeding</a> &nbsp; &nbsp; <a href='../downloads/kominsky2015causal.bib'>.bib</a>"
+
+- title: "The good in happiness"
+  image: OSEP.png
+  description: Presenting several experiments, we argue that the ordinary understanding of happiness suggests a novel view on which happiness consists in experiencing positive psychological states when one ought to.
+  authors: "Jonathan Phillips, <a href='https://www.tue.nl/en/research/researchers/sven-nyholm/'>Sven Nyholm</a>, <a href='http://liao.shen-yi.org/'>Shen-yi Liao</a>"
+  link:
+    url: https://books.google.com/books?hl=en&lr=&id=DDvKBQAAQBAJ&oi=fnd&pg=PT257&dq=%22The+good+in+happiness%22&ots=sn4HBKGuLN&sig=363TrU4wqd-ZogCbLMK3iLMTGsY#v=onepage&q=%22The%20good%20in%20happiness%22&f=false
+    display: Oxford Studies in Experimental Philosophy (2014)
+  highlight: 0
+  news2: "<a href='../downloads/theGoodinHappiness.pdf'>preprint</a> &nbsp; &nbsp; <a href='http://allbeingwellblog.com/jonathan-philips-on-the-concept-of-happiness/'>interview</a> &nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=%22The+good+in+happiness%22+phillips&btnG='>scholar</a> &nbsp; &nbsp; <a href='../downloads/phillips2014good.bib'>.bib</a>"
+
+- title: "Manipulating morality: Third-party intentions alter moral judgments by changing causal reasoning"
+  image: manipulation.png
+  description:
+  authors: "Jonathan Phillips, <a href='https://sites.google.com/site/alexshawyale/'>Alex Shaw</a>"
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1111/cogs.12194/abstract
+    display: Cognitive Science (2014)
+  highlight: 0
+  news2: "<a href='../downloads/Phillips_Manipulating_Morality.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://github.com/phillipsjs/Manipulation'>github</a> &nbsp; &nbsp; <a href='https://osf.io/sdupw/'>osf</a>&nbsp; &nbsp; <a href='http://philosophycommons.typepad.com/xphi/2016/01/knowledge-of-being-manipulated-does-not-affect-moral-responsibility-what.html'>update</a> &nbsp; &nbsp; <a href='http://philosophycommons.typepad.com/flickers_of_freedom/2014/08/the-manipulation-argument-experimental-style.html'>blog</a> &nbsp; &nbsp; <a href='http://yaledailynews.com/blog/2014/11/18/influenced-by-others-less-at-fault/'>media</a> &nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Manipulating+Morality%3A+Third-Party+Intentions+Alter+Moral+Judgments+by+Changing+Causal+Reasoning&btnG='>scholar</a> &nbsp; &nbsp; <a href='../downloads/phillips2014manipulating.bib'>.bib</a>"
+
+- title: The paradox of moral focus
+  image: moralFocus.png
+  description:
+  authors: "<a href='http://moralitylab.bc.edu/'>Liane Young</a>, Jonathan Phillips"
+  link:
+    url: http://www.sciencedirect.com/science/article/pii/S0010027711000175
+    display: Cognition (2011)
+  highlight: 0
+  news2: "<a href='../downloads/YoungPhillipsCognitionIP.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=%22The+paradox+of+moral+focus%22&btnG='>scholar</a> &nbsp; &nbsp; <a href='https://escholarship.org/uc/item/6q04z6jf'>CogSci proceeding</a> &nbsp; &nbsp; <a href='../downloads/young2011paradox.bib'>.bib</a>"
+
+- title: The ordinary concept of happiness (and others like it)
+  image: happiness.png
+  description:
+  authors: "Jonathan Phillips, <a href='https://philosophy.berkeley.edu/people/detail/179'>Luke Misenheimer</a>, <a href='http://campuspress.yale.edu/joshuaknobe/'>Joshua Knobe</a> "
+  link:
+    url: http://emr.sagepub.com/content/3/3/320.abstract
+    display: Emotion Review (2011)
+  highlight: 0
+  #news1: "Check out the expeimental film version of the experiment on <a href='https://www.youtube.com/watch?v=SPkcOBEuUD0'>YouTube</a>!"
+  news2: "<a href='../downloads/LoveandHappiness.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=%22The+ordinary+concept+of+happiness+%28and+others+like+it%29%22&btnG='>scholar</a> &nbsp; &nbsp; <a href='...downloads/phillips2011ordinary.bib'>.bib</a>&nbsp; &nbsp;<a href='../downloads/LovHapSupp.pdf'>supplementary materials</a> &nbsp; &nbsp; <a href='https://www.youtube.com/watch?v=SPkcOBEuUD0'>YouTube</a>"
+
+- title: Moral judgments and intuitions about freedom 
+  image: freedom.png
+  description: 
+  authors: "Jonathan Phillips, <a href='http://campuspress.yale.edu/joshuaknobe/'>Joshua Knobe</a>"
+  link: 
+    url:
+    display: Emotion Review (2009)
+  highlight: 0
+  news2: "<a href='../downloads/Freedom.pdf'>preprint</a> &nbsp; &nbsp; <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Moral+judgments+and+intuitions+about+freedom&btnG='>scholar</a> &nbsp; &nbsp; <a href='../downloads/phillips2009moral.bib'>.bib</a> &nbsp; &nbsp; <a href='https://www.youtube.com/watch?v=0dTQh__09ro'>YouTube</a>"
+
+- title: 
+  image: 
+  description:
+  authors:
+  link:
+    url:
+    display:
+  highlight: 0
   news2:
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
-  highlight: 1
-  news2:
-
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 1
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
-
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
-
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
-
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
-
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-  link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
